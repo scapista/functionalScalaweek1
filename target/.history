@@ -1,0 +1,57 @@
+exit
+test
+:q
+exit
+test
+compile
+test
+compile
+test
+compile
+test
+testtest 
+test
+tst
+test
+compile
+test
+show test
+help
+reload
+last
+test
+last
+test
+scala
+console
+test
+submit scapista5@gmail.com fHES4tA4qm8KJO9c
+test
+  import Main.countChange
+  test("countChange: example given in instructions") {
+    assert(countChange(4,List(1,2)) === 3)
+  test("countChange: example given in instructions") {
+    assert(countChange(4,List(1,2)) === 3)
+  }import org.scalatest.FunSuite
+import org.scalatest.FunSuite
+import org.junit.runner.RunWith
+test
+console 
+test
+console 
+test
+console
+test
+scala
+console
+test
+compile
+test
+help
+reload
+help
+test
+submit scapista5@gmail.com fHES4tA4qm8KJO9c
+submit scapista5@gmail.com ldLJDk9UVSRKJANl
+console 
+exit
